@@ -3,6 +3,20 @@ body {
 
     color: black;
 
+    padding: 0;
+    margin: 0;
+
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    background-color: rgba(62, 54, 92, 0.75);
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+main {
     padding: 2cm 2cm;
 }
 
@@ -20,11 +34,10 @@ p {
     font-family: Times, "Times New Roman", Georgia, serif;
 }
 
-#cartao {
-    width: 16cm;
-    height: 24cm;
+.cartao {
+    width: 10cm;
     background-color: gainsboro;
 }
-#cartao-verso {
-
+.cartao img {
+    width:100%
 }
