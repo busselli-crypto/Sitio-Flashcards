@@ -1,0 +1,30 @@
+body {
+    background-color: papayawhip;
+
+    color: black;
+
+    padding: 2cm 2cm;
+}
+
+h1 {
+    font-family: cursive;
+    margin: 0;
+}
+h2 {
+    font-family: cursive;
+    margin: 0;
+}
+
+p {
+    margin-left: 2vw; 
+    font-family: Times, "Times New Roman", Georgia, serif;
+}
+
+#cartao {
+    width: 16cm;
+    height: 24cm;
+    background-color: gainsboro;
+}
+#cartao-verso {
+
+}
